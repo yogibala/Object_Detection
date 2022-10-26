@@ -1,2 +1,2 @@
 # Object_Detection
-This project is intended for embedded system to run with limited resources instead of using yolov3.weights we used yolov3-tiny.weights which is lightweight and can optimally produce the required performance for my project. Fell free to fork.
+This project is embedded with IoT and arduino uno to make a assistive system. This uses yolov3 weights for the purpose of object detection. It can also be done with yolov3 tiny weights the biggest trade offs between using the above is we lag quality of precision of output.
